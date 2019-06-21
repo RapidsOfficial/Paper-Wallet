@@ -11,6 +11,8 @@ The Rapids Network Paper Wallet generates client-side Private Keys. For better s
 It's here: https://github.com/RapidsOfficial/Paper-Wallet/archive/master.zip
 *******************************************************************************
 
+
+
 RAPIDS Paperwallet by WalletGenerator.net
 RAPIDS Client-Side Wallet Generator
 
