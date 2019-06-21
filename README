@@ -1,11 +1,11 @@
 **** LOOKING FOR THE ZIP FILE TO DOWNLOAD ? ***********************************
-It's here: https://github.com/MichaelMure/WalletGenerator.net/archive/master.zip
+It's here: https://github.com/RapidsOfficial/Rapids/Paper-Wallet
 *******************************************************************************
 
-WalletGenerator.net
-Universal Client-Side Wallet Generator
+RAPIDS Paperwallet by WalletGenerator.net
+RAPIDS Client-Side Wallet Generator
 
-Now crypto-currency wallets addresses and their corresponding private key can be conveniently generated in a web browser.
+Now RAPIDS-wallets addresses and their corresponding private key can be conveniently generated in a web browser.
 
 The WalletGenerator.net project provides an all-in-one HTML document with embedded JavaScript/Css/Images. The JavaScript is readable, not minified and contains no XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the JavaScript locally and trust that the JavaScript did not change after being loaded.
 
@@ -34,8 +34,9 @@ window.Bitcoin        MIT License
 jsqrcode              Apache License, 2.0
 
 
-The WalletGenerator.net software is available under The MIT License (MIT)
-Copyright (c) 2014 WalletGenerator.net
+The RAPIDS Paperwallet is available under The MIT License (MIT)
+Copyright (c) 2014-2019 WalletGenerator.net
+Copyright (c) 2019 rapidsnetwork.io
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
