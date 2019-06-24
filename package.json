@@ -1,5 +1,5 @@
 {
-  "name": "walletgenerator.net",
+  "name": "rapids-paper-wallet",
   "version": "3.3.0",
   "description": "Open Source JavaScript Client-Side Bitcoin Wallet Generator",
   "main": "Gruntfile.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MichaelMure/WalletGenerator.net.git"
+    "url": "git://github.com/RapidsOfficial/Paper-Wallet.git"
   },
   "keywords": [
-    "bitcoin address wallet generator"
+    "rapids address wallet generator"
   ],
-  "author": "MichaelMure",
+  "author": "rapidsnetwork.io",
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/MichaelMure/WalletGenerator.net/issues"
+    "url": "https://github.com/RapidsOfficial/Paper-Wallet/blob/master/README.md"
   }
 }
